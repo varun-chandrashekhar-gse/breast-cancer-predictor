@@ -1,6 +1,7 @@
+scipy
+sklearn
 streamlit
 pandas
 numpy
 scikit-learn
 tpot
-SciPy
