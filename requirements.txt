@@ -1,7 +1,12 @@
 pip       
 setuptools
 
+base64
 pickle
+warnings
+
+sklearn
+
 
 streamlit>=0.81.0
 numpy>=1.20.2
